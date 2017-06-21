@@ -1,0 +1,30 @@
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.exe.config
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.exe
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.pdb
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.csprojResolveAssemblyReference.cache
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.Form1.resources
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.Properties.Resources.resources
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.csproj.GenerateResource.Cache
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.exe
+C:\Users\gorsc_000\Documents\Visual Studio 2015\Projects\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.pdb
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.exe.config
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.exe
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.pdb
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.exe
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\ProductJsonGen.pdb
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.Form1.resources
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.Properties.Resources.resources
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\obj\Debug\ProductJsonGen.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Newtonsoft.Json.xml
