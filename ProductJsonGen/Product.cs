@@ -13,13 +13,13 @@ namespace ProductJsonGen
     public class Product
     {
         [DataMember]
-        public int id;
+        public int id { get; set; }
 
         [DataMember]
-        public string name;
+        public string name { get; set; }
 
         [DataMember]
-        public int category_id;
+        public int category_id { get; set; }
 
         public Product(string name_, int category_id_, int id_ = -1)
         {

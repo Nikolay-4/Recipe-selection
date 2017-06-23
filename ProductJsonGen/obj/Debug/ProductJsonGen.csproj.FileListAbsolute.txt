@@ -28,3 +28,24 @@ C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\Produc
 C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Core.xml
 C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Google.Apis.Drive.v3.xml
 C:\Users\Admin\Desktop\ProductJsonGen-20170620T180811Z-001\ProductJsonGen\ProductJsonGen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\ProductJsonGen.exe.config
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.exe
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.pdb
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\ProductJsonGen.exe
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\ProductJsonGen.pdb
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Core.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Drive.v3.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Core.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Google.Apis.Drive.v3.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.Form1.resources
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.Properties.Resources.resources
+C:\Users\Admin\Recipe selection\App v. 0.1\app0.1\ProductJsonGen\obj\Debug\ProductJsonGen.csproj.GenerateResource.Cache

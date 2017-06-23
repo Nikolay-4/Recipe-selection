@@ -117,23 +117,26 @@ namespace ProductJsonGen
 
 
 
-        int DownloadChunkSize = 256;
-        private const string UploadFileName = @"downloadedFile.json";
-        private const string DownloadDirectoryName = @"E:\";
+       
 
         public static File getFileIdFromFileName(DriveService service, string fileName)
         {
-            // Define parameters of request.
-            FilesResource.ListRequest listRequest = service.Files.List();
-            listRequest.Q = "('" + folderID + "' in parents) and (name = '" + fileName + "')";
-            listRequest.PageSize = 10;
+            try {
+                // Define parameters of request.
+                FilesResource.ListRequest listRequest = service.Files.List();
+                listRequest.Q = "('" + folderID + "' in parents) and (name = '" + fileName + "')";
+                listRequest.PageSize = 10;
 
-            // List files.
-            FileList filesFeed = listRequest.Execute();
-            if (filesFeed.Files.Count > 0)
-                return filesFeed.Files[0];
-            else
+                // List files.
+                FileList filesFeed = listRequest.Execute();
+                if (filesFeed.Files.Count > 0)
+                    return filesFeed.Files[0];
+                else
+                    return null;
+            } catch (Exception e)
+            {
                 return null;
+            }
         }
 
         public static IList<File> GetFiles(DriveService service)
