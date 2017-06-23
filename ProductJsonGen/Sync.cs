@@ -19,14 +19,14 @@ namespace ProductJsonGen
 {
     class Sync
     {
-        public static string folderID = "0B3r82ekCjep0c1oxdmU0VEFxajQ"; // папка на гугл диске
-        public static string ApplicationName = "My Project";
+        public static string folderID = "0B-ILB3tbmdb2cUo5UEkwQXVRaGs"; // папка на гугл диске
+        public static string ApplicationName = "Recipe App";
         public static string pathToDownloadFolder = @"Download\";
         public static string pathFilesForUpload= @"JsonData\";
 
-        static string clientId = "815775364489-bae6i9q49059krf61bbuvvmvun8p2ssm.apps.googleusercontent.com";      // From https://console.developers.google.com
-        static string clientSecret = "z9bGUQLr0NIHnccs6htp5BX0";          // From https://console.developers.google.com
-        static string apiKey = "AIzaSyDp0WGS2OYzEr3K2rgzAEse5t0As7wmqt4";  // from https://console.developers.google.com (Public API access)
+        static string clientId = "46453338546-21dshloec4am1fhpsvds32ip5igik3sl.apps.googleusercontent.com";      // From https://console.developers.google.com
+        static string clientSecret = "XR6xxD6Y_aP-LeCqvKsS_DV3";          // From https://console.developers.google.com
+        static string apiKey = "AIzaSyDtEwRXdZhYpGZMLaUQIZ2zVsuKxMAvalk";  // from https://console.developers.google.com (Public API access)
 
         /*
          * функция для аутентификации 
@@ -61,7 +61,7 @@ namespace ProductJsonGen
                                                           , scopes
                                                           , "SingleUser"
                                                           , CancellationToken.None
-                                                          , new FileDataStore("Daimto.GoogleDrive.Auth.Store")
+                                                          , new FileDataStore("Recipe.GoogleDrive.Auth.Store")
                                                           ).Result;
 
                 service = new DriveService(new BaseClientService.Initializer()
